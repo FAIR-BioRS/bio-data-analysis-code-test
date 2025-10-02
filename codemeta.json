@@ -1,0 +1,28 @@
+{
+  "name": "bio-data-analysis-code-test",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "Patel",
+      "id": "_:author_1",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/FAIR-BioRS/bio-data-analysis-code-test",
+  "dateCreated": "2025-10-02",
+  "description": "Repo for codefair.io demo",
+  "issueTracker": "https://github.com/FAIR-BioRS/bio-data-analysis-code-test/issues",
+  "keywords": [
+    "data science"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "type": "SoftwareSourceCode"
+}
